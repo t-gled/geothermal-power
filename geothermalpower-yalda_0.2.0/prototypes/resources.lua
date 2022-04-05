@@ -14,7 +14,7 @@ data:extend({
         highlight = true,
         minimum = 160000,
         normal = 500000,
-        infinite_depletion_amount = 6,
+        infinite_depletion_amount = 10,
         resource_patch_search_radius = 12,
         tree_removal_probability = 0.7,
         tree_removal_max_distance = 32 * 32,
