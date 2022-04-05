@@ -2,6 +2,7 @@ v 0.2 - 5/4/22
 - improved geothermal vent texture
 - steam animations for vents
 - sprite sheets with variations so not all vents are identical
+- added steam condensation (chemical plant recipe) to turn steam back into water
 
 v 0.1 - 4/4/22
 - basic geothermal derrick
