@@ -1,4 +1,7 @@
-v 0.2 - 5/4/22
+v 0.2.1 - 5/4/22
+- added a setting ('infinite steam resource') which toggles whether the steam resource is infinite (default = true)
+
+v 0.2.0 - 5/4/22
 - improved geothermal vent texture
 - steam animations for vents
 - sprite sheets with variations so not all vents are identical
